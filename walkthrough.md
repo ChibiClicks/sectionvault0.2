@@ -22,6 +22,8 @@ SectionVault is now a fully functional, premium-grade platform for Shopify devel
 
 ### ⚙️ Robust Infrastructure
 - **Clerk Authentication:** Secure sign-in/up flow.
+- **Next.js 15 & React 19:** Optimized for the latest React architecture.
+- **ESLint 9 Flat Config:** Modular and future-proof linting configuration.
 - **Optional Supabase:** Database features are optional! The editor works even without a background database.
 - **Graceful Error Handling:** Informative UI when configuration is missing.
 
